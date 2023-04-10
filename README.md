@@ -1,2 +1,2 @@
 # 08-01
-this have been an information
+this has been an information
